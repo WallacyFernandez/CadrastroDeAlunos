@@ -1,6 +1,6 @@
 # Cadastro de Alunos
 
-Um projeto desenvolvido por um aluno consiste em uma página para cadastro de alunos, que utiliza o algoritmo mergesort para ordenar a lista de alunos em ordem alfabética. O sistema também conta com o algoritmo de busca por interpolação, que permite a busca de alunos por matrícula ou nome. Além disso, há a opção de imprimir a lista de alunos cadastrados. O armazenamento dos alunos é feito em um arquivo JSON, permitindo o carregamento dos dados cadastrados anteriormente.
+Um projeto desenvolvido por um aluno, consiste em uma página para cadastro de alunos, que utiliza o algoritmo mergesort para ordenar a lista de alunos em ordem alfabética. O sistema também conta com o algoritmo de busca por interpolação, que permite a busca de alunos por matrícula ou nome. Além disso, há a opção de imprimir a lista de alunos cadastrados. O armazenamento dos alunos é feito em um arquivo JSON, permitindo o carregamento dos dados cadastrados anteriormente.
 ## Acesso à Página Web
 A página pode ser acessada através deste link: https://wallacyfernandez.github.io/CadrastroDeAlunos/
 
